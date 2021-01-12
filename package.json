@@ -1,0 +1,24 @@
+{
+  "name": "javascript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brmeloleite01/js-tdd-course.git"
+  },
+  "keywords": [
+    "js",
+    "tdd",
+    "lib"
+  ],
+  "author": "brunomelo <brmelo.leite@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/brmeloleite01/js-tdd-course/issues"
+  },
+  "homepage": "https://github.com/brmeloleite01/js-tdd-course#readme"
+}
